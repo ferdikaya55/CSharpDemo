@@ -10,11 +10,11 @@ namespace Basic
             int number = Convert.ToInt32(Console.ReadLine());
             if (IsPrimeNumber(number))
             {
-                Console.WriteLine("Girilen Sayı Asaldır.",number);
+                Console.WriteLine("Girilen Sayı Asaldır..",number);
             }
             else
             {
-                Console.WriteLine("Girilen Sayı Asal Sayı Değildir.");
+                Console.WriteLine("Girilen Sayı Asal Sayı Değildir..");
             }
         }
 
