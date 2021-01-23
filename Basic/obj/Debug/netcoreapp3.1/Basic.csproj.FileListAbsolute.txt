@@ -1,0 +1,13 @@
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\bin\Debug\netcoreapp3.1\Basic.exe
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\bin\Debug\netcoreapp3.1\Basic.deps.json
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.json
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.dev.json
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\bin\Debug\netcoreapp3.1\Basic.dll
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\bin\Debug\netcoreapp3.1\Basic.pdb
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\obj\Debug\netcoreapp3.1\Basic.csprojAssemblyReference.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfoInputs.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfo.cs
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\obj\Debug\netcoreapp3.1\Basic.csproj.CoreCompileInputs.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\obj\Debug\netcoreapp3.1\Basic.dll
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\obj\Debug\netcoreapp3.1\Basic.pdb
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\Basic\obj\Debug\netcoreapp3.1\Basic.genruntimeconfig.cache

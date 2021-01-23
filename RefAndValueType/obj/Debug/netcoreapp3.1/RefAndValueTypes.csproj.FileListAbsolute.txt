@@ -1,0 +1,13 @@
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\bin\Debug\netcoreapp3.1\RefAndValueTypes.exe
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\bin\Debug\netcoreapp3.1\RefAndValueTypes.deps.json
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\bin\Debug\netcoreapp3.1\RefAndValueTypes.runtimeconfig.json
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\bin\Debug\netcoreapp3.1\RefAndValueTypes.runtimeconfig.dev.json
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\bin\Debug\netcoreapp3.1\RefAndValueTypes.dll
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\bin\Debug\netcoreapp3.1\RefAndValueTypes.pdb
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\obj\Debug\netcoreapp3.1\RefAndValueTypes.csprojAssemblyReference.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\obj\Debug\netcoreapp3.1\RefAndValueTypes.AssemblyInfoInputs.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\obj\Debug\netcoreapp3.1\RefAndValueTypes.AssemblyInfo.cs
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\obj\Debug\netcoreapp3.1\RefAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\obj\Debug\netcoreapp3.1\RefAndValueTypes.dll
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\obj\Debug\netcoreapp3.1\RefAndValueTypes.pdb
+C:\Users\Ferdi Kaya\source\repos\CSharpIntro\RefAndValueType\obj\Debug\netcoreapp3.1\RefAndValueTypes.genruntimeconfig.cache
