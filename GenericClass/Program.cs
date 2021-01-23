@@ -14,7 +14,7 @@ namespace Methods
             myList.Add(55, "Samsun");
             myList.Add(35, "Izmir");
 
-            Console.WriteLine("Il Sayısı: " myList.Count);
+            Console.WriteLine("Il Sayısı: " + myList.Count);
             
 
         }
