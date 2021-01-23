@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GenericClass;
+using System;
 
 namespace Methods
 {
@@ -6,7 +7,16 @@ namespace Methods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MyList<int,string> myList = new MyList<int, string>();
+            myList.Add(34, "Istanbul");
+            myList.Add(06, "Ankara");
+            myList.Add(54, "Sakarya");
+            myList.Add(55, "Samsun");
+            myList.Add(35, "Izmir");
+
+            Console.WriteLine("Il Sayısı: " + myList.Count);
+            
+
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tt8agt3xFJQ3Dly+nW+oYLnXcRC2fqui8yBEjjpwcA3bGyJSCNdskMMLxz/DW6W0sbcIxdNJ9ssGYg/DbZ0JVw==",
+  "dgSpecHash": "DOgvQmt3Kjp2e37JssxIP1xSkw0UZqpoX+kSZ3kcWB0EpI0tVLsJlh69KbRK/l/Xcqlua4ghlwuqtZcaYWpsAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\Methods\\GenericClass.csproj",
+  "projectFilePath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\GenericClass\\GenericClass.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

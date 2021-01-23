@@ -1,0 +1,13 @@
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.exe
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.deps.json
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.runtimeconfig.json
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.runtimeconfig.dev.json
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.dll
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.pdb
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.csprojAssemblyReference.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.AssemblyInfoInputs.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.AssemblyInfo.cs
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.dll
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.pdb
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.genruntimeconfig.cache

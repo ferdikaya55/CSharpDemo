@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\Methods\\GenericClass.csproj": {}
+    "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\GenericClass\\GenericClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\Methods\\GenericClass.csproj": {
+    "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\GenericClass\\GenericClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\Methods\\GenericClass.csproj",
+        "projectUniqueName": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\GenericClass\\GenericClass.csproj",
         "projectName": "GenericClass",
-        "projectPath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\Methods\\GenericClass.csproj",
+        "projectPath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\GenericClass\\GenericClass.csproj",
         "packagesPath": "C:\\Users\\Ferdi Kaya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\Methods\\obj\\",
+        "outputPath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\GenericClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ferdi Kaya\\AppData\\Roaming\\NuGet\\NuGet.Config",

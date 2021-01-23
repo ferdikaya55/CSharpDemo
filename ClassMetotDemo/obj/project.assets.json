@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\OOP1\\ClassMetotDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\ClassMetotDemo\\ClassMetotDemo.csproj",
       "projectName": "ClassMetotDemo",
-      "projectPath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\OOP1\\ClassMetotDemo.csproj",
+      "projectPath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\ClassMetotDemo\\ClassMetotDemo.csproj",
       "packagesPath": "C:\\Users\\Ferdi Kaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\OOP1\\obj\\",
+      "outputPath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\ClassMetotDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ferdi Kaya\\AppData\\Roaming\\NuGet\\NuGet.Config",

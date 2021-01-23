@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\Basic\\Basic.csproj": {}
+    "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\Basic\\Basic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\Basic\\Basic.csproj": {
+    "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\Basic\\Basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\Basic\\Basic.csproj",
+        "projectUniqueName": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\Basic\\Basic.csproj",
         "projectName": "Basic",
-        "projectPath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\Basic\\Basic.csproj",
+        "projectPath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\Basic\\Basic.csproj",
         "packagesPath": "C:\\Users\\Ferdi Kaya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\Basic\\obj\\",
+        "outputPath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\Basic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ferdi Kaya\\AppData\\Roaming\\NuGet\\NuGet.Config",

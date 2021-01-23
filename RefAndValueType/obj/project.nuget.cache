@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G+n94ulkEOfG4w1N+mz25l+IymUZSb5Gs36vcndG50AeygvcKJlSzvTlpr4Po6UBQC3pK8E7TBEP9sHxCMbQ+g==",
+  "dgSpecHash": "6/MigaSepbTfK02KusQiXgLW7MEWDkcof2B1Cs0klJ1J90pTZj07rzIVGrRpt2CkLx/H2ban3tSCxMKFqhXWSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpIntro\\RefAndValueType\\RefAndValueTypes.csproj",
+  "projectFilePath": "C:\\Users\\Ferdi Kaya\\source\\repos\\CSharpDemos\\RefAndValueType\\RefAndValueTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
