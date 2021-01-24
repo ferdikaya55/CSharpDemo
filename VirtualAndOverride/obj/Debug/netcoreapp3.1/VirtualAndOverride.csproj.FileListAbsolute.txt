@@ -1,0 +1,12 @@
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\VirtualAndOverride\bin\Debug\netcoreapp3.1\VirtualAndOverride.exe
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\VirtualAndOverride\bin\Debug\netcoreapp3.1\VirtualAndOverride.deps.json
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\VirtualAndOverride\bin\Debug\netcoreapp3.1\VirtualAndOverride.runtimeconfig.json
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\VirtualAndOverride\bin\Debug\netcoreapp3.1\VirtualAndOverride.runtimeconfig.dev.json
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\VirtualAndOverride\bin\Debug\netcoreapp3.1\VirtualAndOverride.dll
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\VirtualAndOverride\bin\Debug\netcoreapp3.1\VirtualAndOverride.pdb
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\VirtualAndOverride\obj\Debug\netcoreapp3.1\VirtualAndOverride.AssemblyInfoInputs.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\VirtualAndOverride\obj\Debug\netcoreapp3.1\VirtualAndOverride.AssemblyInfo.cs
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\VirtualAndOverride\obj\Debug\netcoreapp3.1\VirtualAndOverride.csproj.CoreCompileInputs.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\VirtualAndOverride\obj\Debug\netcoreapp3.1\VirtualAndOverride.dll
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\VirtualAndOverride\obj\Debug\netcoreapp3.1\VirtualAndOverride.pdb
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\VirtualAndOverride\obj\Debug\netcoreapp3.1\VirtualAndOverride.genruntimeconfig.cache

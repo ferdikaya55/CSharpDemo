@@ -1,0 +1,1 @@
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\InterfaceAbstractDemo\obj\Debug\netcoreapp3.1\InterfaceAbstractDemo.csprojAssemblyReference.cache
