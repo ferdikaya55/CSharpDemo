@@ -8,8 +8,7 @@ namespace GameProject
     {
         public override void Sale(Game game, Gamer gamer)
         {
-            base.Sale(game, gamer);
+            Console.WriteLine(gamer.FirstName + " isimli oyuncuya " + game.Name + " oyunu " + game.SalePrice + " TL fiyatından satıldı.");
         }
-
     }
 }

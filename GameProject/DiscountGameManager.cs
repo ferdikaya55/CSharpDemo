@@ -18,10 +18,10 @@ namespace GameProject
         {
             Console.WriteLine("İndirimli ürün silindi.");
         }
+
         public override void Sale(Game game, Gamer gamer)
         {
             Console.WriteLine(gamer.FirstName + " isimli oyuncuya " + game.Name + " oyunu " + game.SalePrice + " TL ile indirimli fiyatından satıldı.");
-
         }
     }
 }
