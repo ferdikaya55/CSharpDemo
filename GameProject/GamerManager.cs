@@ -4,11 +4,27 @@ using System.Text;
 
 namespace GameProject
 {
-    public class GamerManager
+    public class GamerManager:IGamerService
     {
+        IUserValidationService _userValidationService;
+
+        public GamerManager(IUserValidationService userValidationService)
+        {
+            _userValidationService = userValidationService;
+        }
         public void SaveGamer(Gamer gamer)
         {
-            Console.WriteLine(gamer.FirstName + " isimli oyuncu kaydedildi..");
+            if (_userValidationService.Validate(gamer)==true)
+            {
+                Console.WriteLine("Kayıt Oldu");
+                Console.WriteLine(gamer.FirstName + " isimli oyuncu kaydedildi..");
+            }
+            else
+            {
+                Console.WriteLine("Kimlik doğrulanamadı.Kayıt başarısız.");
+
+            }
+           
         }
         public void ListGamer(List<Gamer> gamers)
         {

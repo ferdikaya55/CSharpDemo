@@ -6,9 +6,9 @@ namespace GameProject
 {
     public class Gamer
     {
-        public string NationalityId { get; set; }
+        public long IdentiyNumber { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public DateTime DateOfBirthDay { get; set; }
+        public int BirthYear { get; set; }
     }
 }

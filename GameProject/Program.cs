@@ -22,7 +22,11 @@ namespace GameProject
             gameSales.Sale(game1,gamer);
             discountSales.Sale(game1,gamer);
             newMemberSales.Sale(game1,gamer);
-            
+
+            DiscountGameManager discountGameManager = new DiscountGameManager();
+            discountGameManager.AddDiscountGame();
+            discountGameManager.UpdateDiscountGame();
+            discountGameManager.DeleteDiscountGame();
         }
         static void SalesGame()
         {
@@ -38,17 +42,25 @@ namespace GameProject
         static void InitGamer()
         {
             Gamer gamer1 = new Gamer();
-            gamer1.NationalityId = "11111111111";
+            gamer1.IdentiyNumber = 11111111111;
             gamer1.FirstName = "Ferdi";
             gamer1.LastName = "Kaya";
-            gamer1.DateOfBirthDay = new DateTime(1996, 6, 15);
+            gamer1.BirthYear = 1996;
             Gamer gamer2 = new Gamer();
-            gamer2.NationalityId = "222222222222";
+            gamer2.IdentiyNumber = 222222222222;
             gamer2.FirstName = "Engin";
             gamer2.LastName = "Demiroğ";
-            gamer2.DateOfBirthDay = new DateTime(1985, 1, 6);
+            gamer2.BirthYear = 1985;
 
-            GamerManager gamerManager = new GamerManager();
+            GamerManager gamerManager = new GamerManager(new UserValidationManager());
+            gamerManager.SaveGamer(new Gamer
+            {
+                IdentiyNumber = 123445,
+                BirthYear = 1999,
+                FirstName = "Ali"
+            });
+            
+            
             gamerManager.SaveGamer(gamer1);
             gamerManager.SaveGamer(gamer2);
 
