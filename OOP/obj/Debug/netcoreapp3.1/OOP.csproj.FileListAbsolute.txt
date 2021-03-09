@@ -1,0 +1,13 @@
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Ferdi Kaya\source\repos\CSharpDemos\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
